@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: retry.it
+Version: 1.5
+Summary: A small and simple library to retry functions
+Home-page: https://github.com/seemethere/retry
+Author: Eli Uriegas
+Author-email: seemethere101@gmail.com
+License: MIT
+Description: A small and simple library to retry functions
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities

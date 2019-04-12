@@ -1,0 +1,9 @@
+README.md
+retry.py
+setup.cfg
+setup.py
+retry.it.egg-info/PKG-INFO
+retry.it.egg-info/SOURCES.txt
+retry.it.egg-info/dependency_links.txt
+retry.it.egg-info/requires.txt
+retry.it.egg-info/top_level.txt
